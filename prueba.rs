@@ -1,1 +1,3 @@
 println!("chaos");
+
+fn();
